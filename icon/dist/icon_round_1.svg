@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1F4097;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#297BD8;}
+</style>
+<g>
+	<circle class="st0" cx="500" cy="500" r="499.5"/>
+</g>
+<g>
+	<circle class="st1" cx="500" cy="500" r="420"/>
+</g>
+<g>
+	<circle class="st2" cx="500" cy="500" r="395"/>
+</g>
+<g>
+	<g id="Rectangle_2">
+		<g>
+			<rect x="262" y="490.8" class="st1" width="128.4" height="75.9"/>
+		</g>
+	</g>
+	<g>
+		<path class="st1" d="M483,567.1v147.6H383V284h164.4c51.1,0,91.6,13,121.6,39s45,60.2,45,102.6s-15,76.5-45,102.5
+			c-30,26-70.5,38.9-121.6,38.9H483z M483,490.1h64.5c21.7,0,38.2-6,49.7-17.9s17.1-27.3,17.1-46c0-19.1-5.7-34.8-17-47
+			c-11.4-12.2-27.9-18.3-49.8-18.3H483V490.1z"/>
+	</g>
+	<g id="Rectangle_2_copie">
+		<g>
+			<rect x="262" y="378" class="st1" width="128.4" height="75.9"/>
+		</g>
+	</g>
+</g>
+</svg>
