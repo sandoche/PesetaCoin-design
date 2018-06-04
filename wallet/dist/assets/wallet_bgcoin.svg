@@ -1,0 +1,25 @@
+
+<svg width="563px" height="546px" viewBox="0 0 563 546" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-2" transform="translate(-151.000000, -399.000000)">
+            <g id="Logo-P" transform="translate(151.000000, 399.000000)">
+                <g id="circles">
+                    <ellipse id="Oval-2" fill-opacity="0.0351279438" fill="#1E3951" cx="281.5" cy="273" rx="281.5" ry="273"></ellipse>
+                    <ellipse id="Oval" fill-opacity="0.140000001" fill="#3B99FC" cx="278" cy="277" rx="203" ry="197"></ellipse>
+                </g>
+                <g id="P" opacity="0.30298913" transform="translate(267.000000, 293.137674) rotate(25.000000) translate(-267.000000, -293.137674) translate(143.500000, 175.137674)" fill="#1A57EB">
+                    <g id="Rectangle_2" transform="translate(0.000000, 113.605990)">
+                        <rect id="Rectangle-path" x="0" y="0.0519460403" width="69.7443064" height="41.8425354"></rect>
+                    </g>
+                    <path d="M120.275325,154.885673 L120.275325,235.627239 L65.6390165,235.627239 L65.6390165,0 L155.523726,0 C183.434074,0 205.602717,7.11288613 221.978161,21.3644297 C238.353605,35.6159733 246.567075,54.3259564 246.567075,77.5201503 C246.567075,100.714344 238.379353,119.398556 221.978161,133.598557 C205.57697,147.798558 183.434074,154.885673 155.523726,154.885673 L120.275325,154.885673 Z M120.275325,112.801096 L155.523726,112.801096 C167.3676,112.801096 176.430739,109.528138 182.687395,103.007992 C188.94405,96.4878466 192.059504,88.0863942 192.059504,77.8294062 C192.059504,67.3662476 188.969798,58.7843959 182.764637,52.1096223 C176.559477,45.4348487 167.496338,42.0845763 155.523726,42.0845763 L120.275325,42.0845763 L120.275325,112.801096 Z" id="Shape" fill-rule="nonzero"></path>
+                    <g id="Rectangle_2_copie" transform="translate(0.000000, 51.333077)">
+                        <rect id="Rectangle-path" x="0" y="0.155838121" width="69.7443064" height="41.8425354"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
